@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/.vs/TutorManagementSystem/v15/Server/sqlite3
