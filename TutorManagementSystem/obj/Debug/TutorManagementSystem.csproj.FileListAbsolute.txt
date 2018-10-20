@@ -1,0 +1,10 @@
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\bin\Debug\TutorManagementSystem.exe.config
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\bin\Debug\TutorManagementSystem.exe
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\bin\Debug\TutorManagementSystem.pdb
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.csprojAssemblyReference.cache
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.LoginScreen.resources
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.Properties.Resources.resources
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.csproj.GenerateResource.cache
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.exe
+C:\Users\Faraz Ahmed Khan\source\repos\Tutor-Management-System\TutorManagementSystem\obj\Debug\TutorManagementSystem.pdb
